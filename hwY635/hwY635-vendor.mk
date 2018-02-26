@@ -629,7 +629,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/hwY635/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/huawei/hwY635/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/huawei/hwY635/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
-    vendor/huawei/hwY635/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/huawei/hwY635/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/huawei/hwY635/proprietary/vendor/lib/egl/eglSubDriverAndroid.so:system/vendor/lib/egl/eglSubDriverAndroid.so \
     vendor/huawei/hwY635/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
